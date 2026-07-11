@@ -1,0 +1,5 @@
+data/*.db
+node_modules/
+.next/
+.env
+.next/cache
